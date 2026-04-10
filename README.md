@@ -64,3 +64,4 @@ REFLECTION:
 Through this midterm laboratory, I learned how to design a database and organize it properly using normalization from UNF to 3NF. I gained hands-on experience in writing SQL queries such us SELECT, INSERT, UPDATE, DELETE, as well as JOINS and SUBQUERIES. I discovered how indexing can make searching faster and more efficient. Additionally, I enhanced my skills in using GitHub.
 
 Overall, I found the project challenging but manageable. Designing the database structure and relationships required careful planning and critical thinking.  Although it took several hours to complete, the experience greatly improved my understanding of database systems.
+
